@@ -1,9 +1,8 @@
-Kelompok 16:
+Kelompok 16 (B):
 * Dicky Adhitya Syahputra (2211102441079)
 * Muhammad Ansar (2211102441239)
 * Muhammad Indra Permana (2211102441044)
-* muhammad Nizar Zulmi firdausy
-(2211102441165)
+* muhammad Nizar Zulmi Firdausy (2211102441165)
 
 
 # fly
