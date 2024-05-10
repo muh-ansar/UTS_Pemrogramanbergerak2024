@@ -254,7 +254,7 @@ class HomeScreen extends StatelessWidget {
             height: 16,
           ),
           input(
-              placeholder: "Depature Date",
+              placeholder: "Tanggal Penerbangan",
               icon: "calendar.svg",
               value: "Rabu, 24 Apr 2024"),
           const SizedBox(
